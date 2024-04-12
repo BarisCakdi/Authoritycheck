@@ -1,0 +1,14 @@
+C:\Works\Authoritycheck\bin\Debug\net8.0\Authoritycheck.exe
+C:\Works\Authoritycheck\bin\Debug\net8.0\Authoritycheck.deps.json
+C:\Works\Authoritycheck\bin\Debug\net8.0\Authoritycheck.runtimeconfig.json
+C:\Works\Authoritycheck\bin\Debug\net8.0\Authoritycheck.dll
+C:\Works\Authoritycheck\bin\Debug\net8.0\Authoritycheck.pdb
+C:\Works\Authoritycheck\obj\Debug\net8.0\Authoritycheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\Authoritycheck\obj\Debug\net8.0\Authoritycheck.AssemblyInfoInputs.cache
+C:\Works\Authoritycheck\obj\Debug\net8.0\Authoritycheck.AssemblyInfo.cs
+C:\Works\Authoritycheck\obj\Debug\net8.0\Authoritycheck.csproj.CoreCompileInputs.cache
+C:\Works\Authoritycheck\obj\Debug\net8.0\Authoritycheck.dll
+C:\Works\Authoritycheck\obj\Debug\net8.0\refint\Authoritycheck.dll
+C:\Works\Authoritycheck\obj\Debug\net8.0\Authoritycheck.pdb
+C:\Works\Authoritycheck\obj\Debug\net8.0\Authoritycheck.genruntimeconfig.cache
+C:\Works\Authoritycheck\obj\Debug\net8.0\ref\Authoritycheck.dll
